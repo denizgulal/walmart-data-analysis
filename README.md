@@ -2,7 +2,7 @@
 ### Overview
 This repository presents an exploratory data analysis (EDA) and data wrangling project using Walmart dataset. The goal is to gain insights into various aspects of Walmart's business, customer behavior, and sales trends through visualizations created in Tableau.
 
-![tableau_workbook](Walmart.png)
+![tableau_workbook](walmart.png)
 
 To see the workbook in detail, visit my portfolio [TABLEAU](https://public.tableau.com/views/WalmartDataAnalysis_17069702912880/walmart?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
