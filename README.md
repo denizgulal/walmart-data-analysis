@@ -16,16 +16,16 @@ Visualizations: Pie charts depicting customer segments, spending patterns, and p
 
 ## Getting Started
 Clone the repository:
-$ git clone https://github.com/your-username/walmart-dataset-analysis.git
+$ git clone https://github.com/denizgulal/walmart-dataset-analysis.git
 1. Open Tableau Desktop or Tableau Public.
-2. Connect to the provided dataset (Netflix data file).
-3. Load the Tableau workbook file (Netflix_Visualizations.twb) available in the repository.
+2. Connect to the provided dataset (Walmart data file).
+3. Load the Tableau workbook file available in the repository.
 4. Explore the dashboards and visualizations.
 
 ## Requirements
 Tableau Desktop or Tableau Public
 Walmart dataset (provided in the repository)
-Original dataset can be downloaded from [Kaggle]()
+Original dataset can be downloaded from [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 
 ## Contributing
 Feel free to contribute by opening issues, providing feedback, or submitting pull requests. Any help in improving and expanding the visualizations is highly appreciated.
